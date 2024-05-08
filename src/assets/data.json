@@ -1,0 +1,1390 @@
+{
+    "bestRoute": {
+        "paths": [
+            {
+                "nodeList": [
+                    {
+                        "id": 642,
+                        "name": "周凯",
+                        "province": "贵州省",
+                        "city": "贵阳市",
+                        "area": "观山湖区",
+                        "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                        "longitude": 106.6438130000,
+                        "latitude": 26.6185360000,
+                        "lineId": null,
+                        "lineSort": null,
+                        "deliveryTime": "",
+                        "demands": 71,
+                        "distance": 9092.00,
+                        "duration": 1174
+                    },
+                    {
+                        "id": 641,
+                        "name": "李纛",
+                        "province": "贵州省",
+                        "city": "贵阳市",
+                        "area": "观山湖区",
+                        "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                        "longitude": 106.6428270000,
+                        "latitude": 26.6177020000,
+                        "lineId": null,
+                        "lineSort": null,
+                        "deliveryTime": "",
+                        "demands": 29,
+                        "distance": 8806.00,
+                        "duration": 1208
+                    }
+                ],
+                "demands": 100,
+                "duration": 2382
+            },
+            {
+                "nodeList": [
+                    {
+                        "id": 644,
+                        "name": "★省委机关食堂（常规菜品）",
+                        "province": "贵州省",
+                        "city": "贵阳市",
+                        "area": "南明区",
+                        "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                        "longitude": 106.7226310000,
+                        "latitude": 26.5711790000,
+                        "lineId": null,
+                        "lineSort": null,
+                        "deliveryTime": "",
+                        "demands": 13,
+                        "distance": 20733.00,
+                        "duration": 2163
+                    },
+                    {
+                        "id": 647,
+                        "name": "省委门店（临时）",
+                        "province": "贵州省",
+                        "city": "贵阳市",
+                        "area": "南明区",
+                        "addressDetail": "贵州省贵阳市南明区省委大院",
+                        "longitude": 106.7232540000,
+                        "latitude": 26.5674220000,
+                        "lineId": null,
+                        "lineSort": null,
+                        "deliveryTime": "",
+                        "demands": 52,
+                        "distance": 21110.00,
+                        "duration": 2309
+                    }
+                ],
+                "demands": 65,
+                "duration": 4472
+            },
+            {
+                "nodeList": [
+                    {
+                        "id": 651,
+                        "name": "省委机关餐饮部",
+                        "province": "贵州省",
+                        "city": "贵阳市",
+                        "area": "南明区",
+                        "addressDetail": "贵州省贵阳市南明区省委机关",
+                        "longitude": 106.7270300000,
+                        "latitude": 26.5668220000,
+                        "lineId": null,
+                        "lineSort": null,
+                        "deliveryTime": "",
+                        "demands": 35,
+                        "distance": 21055.00,
+                        "duration": 2215
+                    }
+                ],
+                "demands": 35,
+                "duration": 2215
+            },
+            {
+                "nodeList": [
+                    {
+                        "id": 653,
+                        "name": "贵州省公安厅特勤局",
+                        "province": "贵州省",
+                        "city": "贵阳市",
+                        "area": "南明区",
+                        "addressDetail": "贵州省贵阳市南明区汤巴关",
+                        "longitude": 106.7465730000,
+                        "latitude": 26.5647160000,
+                        "lineId": null,
+                        "lineSort": null,
+                        "deliveryTime": "",
+                        "demands": 64,
+                        "distance": 22451.00,
+                        "duration": 2289
+                    }
+                ],
+                "demands": 64,
+                "duration": 2289
+            }
+        ],
+        "routName": "方案6",
+        "fitness": 74343.0
+    },
+    "routs": [
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        },
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案0",
+            "fitness": 74423.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        },
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案1",
+            "fitness": 74423.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        },
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案2",
+            "fitness": 74673.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        },
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案3",
+            "fitness": 74423.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        },
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案4",
+            "fitness": 74673.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        },
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案5",
+            "fitness": 74423.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        },
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        },
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案6",
+            "fitness": 74343.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        },
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        },
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案7",
+            "fitness": 74593.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        },
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案8",
+            "fitness": 74423.0
+        },
+        {
+            "paths": [
+                {
+                    "nodeList": [
+                        {
+                            "id": 641,
+                            "name": "李纛",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区天一国际",
+                            "longitude": 106.6428270000,
+                            "latitude": 26.6177020000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 29,
+                            "distance": 8806.00,
+                            "duration": 1208
+                        },
+                        {
+                            "id": 642,
+                            "name": "周凯",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "观山湖区",
+                            "addressDetail": "贵州省贵阳市观山湖区长岭南路33号天一国际广场",
+                            "longitude": 106.6438130000,
+                            "latitude": 26.6185360000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 71,
+                            "distance": 9092.00,
+                            "duration": 1174
+                        }
+                    ],
+                    "demands": 100,
+                    "duration": 2382
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 644,
+                            "name": "★省委机关食堂（常规菜品）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区纪念塔居委会冠洲宾馆省委(公交站)",
+                            "longitude": 106.7226310000,
+                            "latitude": 26.5711790000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 13,
+                            "distance": 20733.00,
+                            "duration": 2163
+                        },
+                        {
+                            "id": 647,
+                            "name": "省委门店（临时）",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委大院",
+                            "longitude": 106.7232540000,
+                            "latitude": 26.5674220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 52,
+                            "distance": 21110.00,
+                            "duration": 2309
+                        }
+                    ],
+                    "demands": 65,
+                    "duration": 4472
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 651,
+                            "name": "省委机关餐饮部",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区省委机关",
+                            "longitude": 106.7270300000,
+                            "latitude": 26.5668220000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 35,
+                            "distance": 21055.00,
+                            "duration": 2215
+                        }
+                    ],
+                    "demands": 35,
+                    "duration": 2215
+                },
+                {
+                    "nodeList": [
+                        {
+                            "id": 653,
+                            "name": "贵州省公安厅特勤局",
+                            "province": "贵州省",
+                            "city": "贵阳市",
+                            "area": "南明区",
+                            "addressDetail": "贵州省贵阳市南明区汤巴关",
+                            "longitude": 106.7465730000,
+                            "latitude": 26.5647160000,
+                            "lineId": null,
+                            "lineSort": null,
+                            "deliveryTime": "",
+                            "demands": 64,
+                            "distance": 22451.00,
+                            "duration": 2289
+                        }
+                    ],
+                    "demands": 64,
+                    "duration": 2289
+                }
+            ],
+            "routName": "方案9",
+            "fitness": 74423.0
+        }
+    ]
+}
